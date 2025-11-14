@@ -5,7 +5,7 @@ A complete guide to mastering non-deterministic system trade-offs for AI Product
 
 **This repository contains:**
 
-📊 Google Sheet (CSV) to track your learning
+📊 AI_PM_Tradeoffs_Tracker (Excel) to track your learning
 
 🧠 Full list of trade-offs every AI PM must master
 
@@ -87,14 +87,13 @@ The table below categorizes the essential trade-offs across ML, GenAI, and class
 
 
 
-🎯 📊 Google Sheet Tracker
+🎯 📊 AI_PM_Tradeoffs_Tracker (Excel) Tracker
 
 
-Download the CSV here and upload to Google Sheets:
+Download the file:
 
-👉 AI_PM_Tradeoffs_Tracker.csv
+👉 AI_PM_Tradeoffs_Tracker (Excel)
 
-Columns include: Category	Type	Description	Learned?	Priority	Notes
 
 Use this sheet to track your learning journey toward AI PM mastery.
 
@@ -103,7 +102,7 @@ Use this sheet to track your learning journey toward AI PM mastery.
 
 Step 1 — Learn the Trade-Offs
 
-Read the descriptions in the CSV and study the examples.
+Read the descriptions in the AI_PM_Tradeoffs_Tracker (Excel) and study the examples.
 
 Step 2 — Apply Them to Real Products
 
